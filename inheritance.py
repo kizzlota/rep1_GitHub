@@ -39,3 +39,4 @@ bm = BigMario()
 bm.move()
 bm.eat_shroom()
 
+print "HW"
